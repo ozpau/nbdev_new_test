@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_new_test"
+  site-url: "https://ozpau.github.io/nbdev_new_test"
+  description: "sfdasd\\n\\n\\n\\n\\n\\nkeywords = one two three \" }]"
+  repo-branch: main
+  repo-url: "https://github.com/ozpau/nbdev_new_test"
